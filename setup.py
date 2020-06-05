@@ -11,7 +11,7 @@ setuptools.setup(
     description="Color you text terminal output",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/bessavagner/colotext",
+    url="https://github.com/bessavagner/colortext",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
