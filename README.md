@@ -26,4 +26,8 @@ See [example.py](https://github.com/bessavagner/colortext/blob/master/example.py
 
 ## Acknowledgments
 
-The author acknowledges [Joeld and Richard](https://stackoverflow.com/a/287944/13599189)
+The author acknowledges:
+
+- [Richard](https://stackoverflow.com/users/752843/richard)
+- [joeld](https://stackoverflow.com/users/19104/joeld)
+- [Glenn Slayden](https://stackoverflow.com/users/147511/glenn-slayden)
