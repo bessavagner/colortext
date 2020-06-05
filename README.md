@@ -18,7 +18,7 @@ pip install .
 
 ## Running tests
 
-See example.py
+See [example.py](https://github.com/bessavagner/colortext/blob/master/example.py)
 
 ## Author
 
